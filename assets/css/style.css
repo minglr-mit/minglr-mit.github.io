@@ -987,14 +987,12 @@ p {
   }
  }
   
-.footer-contact .contact {
+.contact {
   padding-top: 20px; }
-  .footer-contact .contact li {
+  .contact li {
     margin-top: 20px;
-    font-size: 16px;
-    color: #fff; }
-    .footer-contact .link {
-      color: #fff !important;
+    font-size: 16px; }
+    .contact .link {
       font-weight: 600;
       text-decoration: underline;
     }
