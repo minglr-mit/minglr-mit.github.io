@@ -731,6 +731,10 @@ p {
     background: -webkit-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
     background: -o-linear-gradient(left, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
     background: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #33c8c1 100%);
+    background-size: 200%;
+  }
+  .navbar-btn .main-btn.blue:hover {
+    background-position: right center;
   }
 .sticky .navbar-toggler .toggler-icon {
   background-color: #2E2E2E; }
