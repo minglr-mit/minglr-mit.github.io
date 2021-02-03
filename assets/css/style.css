@@ -1044,9 +1044,9 @@ p {
     color: #fff; }
 
 .white {
-  color: #fff !important;
+  color: yellow !important;
   
 }
 .white:hover {
-  color: #ccc !important;
+  color: yellowgreen !important;
 }
