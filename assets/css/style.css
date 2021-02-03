@@ -1042,3 +1042,11 @@ p {
   display: none; }
   .back-to-top:hover {
     color: #fff; }
+
+.white {
+  color: #fff !important;
+  
+}
+.white:hover {
+  color: #ccc !important;
+}
